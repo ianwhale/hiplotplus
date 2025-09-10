@@ -28,4 +28,4 @@ There are plenty of alternatives to this work.
 - D3: [https://d3-graph-gallery.com/parallel.html](https://d3-graph-gallery.com/parallel.html)
 - YellowBrick: [https://www.scikit-yb.org/en/latest/api/features/pcoords.html](https://www.scikit-yb.org/en/latest/api/features/pcoords.html)
 
-However, `hiplotplus` retains and updates the original, unique functionality of `hiplot`. Where high quality, interactive plots can be shared amongst practitioners.
+However, `hiplotplus` retains and updates the original, unique functionality of `hiplot`: interactive plots that can be shared amongst practitioners for offline viewing.
